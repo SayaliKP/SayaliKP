@@ -11,7 +11,7 @@ I'm a  Computer Engineer passionate about full-stack development and polyglot de
  
 ## 🛠️ Languages & Tools
  
-[Java,C,C++,JAVA ]
+[C,C++,JAVA ,HTML,CSS]
  
 ## 👀 Most Used Languages
  
